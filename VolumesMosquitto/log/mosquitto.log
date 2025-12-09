@@ -1,0 +1,123 @@
+1765274810: mosquitto version 2.0.22 starting
+1765274810: Config loaded from /mosquitto/config/mosquitto.conf.
+1765274810: Opening ipv4 listen socket on port 1883.
+1765274810: Opening ipv6 listen socket on port 1883.
+1765274810: mosquitto version 2.0.22 running
+1765275099: New connection from 172.19.0.1:59050 on port 1883.
+1765275099: New client connected from 172.19.0.1:59050 as postman-mqtt-client-1765275098051 (p5, c0, k60).
+1765275099: No will message specified.
+1765275099: Sending CONNACK to postman-mqtt-client-1765275098051 (0, 0)
+1765275099: Received SUBSCRIBE from postman-mqtt-client-1765275098051
+1765275099: 	TopicControle (QoS 0)
+1765275099: postman-mqtt-client-1765275098051 0 TopicControle
+1765275099: Sending SUBACK to postman-mqtt-client-1765275098051
+1765275111: Received UNSUBSCRIBE from postman-mqtt-client-1765275098051
+1765275111: 	TopicControle
+1765275111: postman-mqtt-client-1765275098051 TopicControle
+1765275111: Sending UNSUBACK to postman-mqtt-client-1765275098051
+1765275111: Received SUBSCRIBE from postman-mqtt-client-1765275098051
+1765275111: 	TopicControle (QoS 0)
+1765275111: postman-mqtt-client-1765275098051 0 TopicControle
+1765275111: Sending SUBACK to postman-mqtt-client-1765275098051
+1765275147: Received PUBLISH from postman-mqtt-client-1765275098051 (d0, q0, r0, m0, 'TopicControle', ... (22 bytes))
+1765275147: Sending PUBLISH to postman-mqtt-client-1765275098051 (d0, q0, r0, m0, 'TopicControle', ... (22 bytes))
+1765275207: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275207: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275267: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275267: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275327: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275327: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275387: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275387: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275447: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275447: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275507: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275507: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275567: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275567: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275627: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275627: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275687: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275687: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275747: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275747: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275807: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275807: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275867: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275867: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275927: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275927: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765275987: Received PINGREQ from postman-mqtt-client-1765275098051
+1765275987: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276047: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276047: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276107: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276107: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276167: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276167: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276227: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276227: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276287: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276287: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276347: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276347: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276407: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276407: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276467: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276467: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276527: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276527: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276587: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276587: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276647: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276647: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276707: Received PINGREQ from postman-mqtt-client-1765275098051
+1765276707: Sending PINGRESP to postman-mqtt-client-1765275098051
+1765276761: mosquitto version 2.0.22 terminating
+1765276979: mosquitto version 2.0.22 starting
+1765276979: Config loaded from /mosquitto/config/mosquitto.conf.
+1765276979: Opening ipv4 listen socket on port 1883.
+1765276979: Opening ipv6 listen socket on port 1883.
+1765276979: mosquitto version 2.0.22 running
+1765276984: mosquitto version 2.0.22 terminating
+1765276988: mosquitto version 2.0.22 starting
+1765276988: Config loaded from /mosquitto/config/mosquitto.conf.
+1765276988: Opening ipv4 listen socket on port 1883.
+1765276988: Opening ipv6 listen socket on port 1883.
+1765276988: mosquitto version 2.0.22 running
+1765277000: mosquitto version 2.0.22 terminating
+1765277005: mosquitto version 2.0.22 starting
+1765277005: Config loaded from /mosquitto/config/mosquitto.conf.
+1765277005: Opening ipv4 listen socket on port 1883.
+1765277005: Opening ipv6 listen socket on port 1883.
+1765277005: mosquitto version 2.0.22 running
+1765277032: New connection from 172.19.0.1:60792 on port 1883.
+1765277032: New client connected from 172.19.0.1:60792 as postman-mqtt-client-1765277031339 (p5, c0, k60).
+1765277032: No will message specified.
+1765277032: Sending CONNACK to postman-mqtt-client-1765277031339 (0, 0)
+1765277032: Received SUBSCRIBE from postman-mqtt-client-1765277031339
+1765277032: 	TopicControle (QoS 0)
+1765277032: postman-mqtt-client-1765277031339 0 TopicControle
+1765277032: Sending SUBACK to postman-mqtt-client-1765277031339
+1765277041: Received PUBLISH from postman-mqtt-client-1765277031339 (d0, q0, r0, m0, 'TopicControle', ... (7 bytes))
+1765277041: Sending PUBLISH to postman-mqtt-client-1765277031339 (d0, q0, r0, m0, 'TopicControle', ... (7 bytes))
+1765277101: Received PINGREQ from postman-mqtt-client-1765277031339
+1765277101: Sending PINGRESP to postman-mqtt-client-1765277031339
+1765277145: mosquitto version 2.0.22 terminating
+1765277177: mosquitto version 2.0.22 starting
+1765277177: Config loaded from /mosquitto/config/mosquitto.conf.
+1765277177: Opening ipv4 listen socket on port 1883.
+1765277177: Opening ipv6 listen socket on port 1883.
+1765277177: mosquitto version 2.0.22 running
+1765277276: mosquitto version 2.0.22 terminating
+1765277344: mosquitto version 2.0.22 starting
+1765277344: Config loaded from /mosquitto/config/mosquitto.conf.
+1765277344: Opening ipv4 listen socket on port 1883.
+1765277344: Opening ipv6 listen socket on port 1883.
+1765277344: mosquitto version 2.0.22 running
+1765277592: mosquitto version 2.0.22 terminating
+1765277594: mosquitto version 2.0.22 starting
+1765277594: Config loaded from /mosquitto/config/mosquitto.conf.
+1765277594: Opening ipv4 listen socket on port 1883.
+1765277594: Opening ipv6 listen socket on port 1883.
+1765277594: mosquitto version 2.0.22 running
